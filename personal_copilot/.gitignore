@@ -1,0 +1,13 @@
+.copilot/
+__pycache__
+logs/
+wandb/
+dataset_generation/buckets/
+dataset_generation/filtered_data/
+dataset_generation/hf_public_repos/
+dataset_generation/hf_stack/
+dataset_generation/remove_ids/
+dataset_generation/removed/
+dataset_generation/signatures/
+
+
